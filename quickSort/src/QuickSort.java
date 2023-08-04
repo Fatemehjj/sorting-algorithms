@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Random;
 
-public class Main {
+public class QuickSort {
     public static void main(String[] args) {
 
         int[] numbers = new int[100];
